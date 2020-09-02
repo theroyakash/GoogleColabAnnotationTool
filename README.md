@@ -1,5 +1,4 @@
 # Object Detection annotation tool for Google Colab
----
 This tool can be used in Jupyter Labs running in local enviornments also,
 
 Object Detection annotation tool to use in Google Colab and Local Jupyter notebooks.
