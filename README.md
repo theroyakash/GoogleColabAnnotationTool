@@ -42,6 +42,6 @@ Object Detection annotation tool to use in Google Colab and Local Jupyter notebo
   ```
 - Now with all the images converted to numpy arrays run the annotation tool
   ```python
-  gt_boxes = []
-  annotate(train_images_np, box_storage_pointer=gt_boxes)
+  bounding_boxes = []
+  annotate(train_images_np, box_storage_pointer=bounding_boxes)
   ```
